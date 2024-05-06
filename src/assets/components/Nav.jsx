@@ -23,7 +23,7 @@ function Nav() {
       <Link to="/"><img src="/new.jpeg" className='h-16 w-16 rounded-full p-1'></img></Link>
       <h1 className='pt-2 text-3xl font-mono font-semibold uppercase text-gray-500'>Stylis</h1>
       </div>
-      <div className=' hidden md:flex md:flex-row gap-4 pt-3 text-lg font-light font-gray-300 '>
+      <div className='hidden md:flex md:flex-row gap-4 pt-3 text-lg font-light font-gray-300 '>
         <Link to="/"><h1 className='hover:border-b-2 border-blue-500 '>Home</h1></Link>
         <Link to="/products"><h1 className='hover:border-b-2 border-blue-500'>Products</h1></Link>
         <Link to="/mens-item"><h1 className='hover:border-b-2 border-blue-500'>Mens</h1></Link>
